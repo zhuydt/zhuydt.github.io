@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>zHuyDT - my blog!</title>
+
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./css/header.css" />
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <meta property="og:title" content="Android games">
+    <meta property="og:description" content="Developer games for android..">
+    <meta property="og:image" content="images/tim_so.png">
+    <meta property="og:url" content="https://zhuydt.github.io/">
+    <meta property="og:type" content="website">
+</head>
+<body>
+
+<header class="rural-header">
+  <div class="container">
+    <div>
+      <h1><a href="index.html">Android games</a></h1>
+      <!-- <p class="subtitle">Long Sơn - TP.Vũng Tàu</p> -->
+    </div>
+    <button class="menu-toggle" id="menuToggle">☰</button>
+    <nav id="mainNav">
+  <ul class="nav-links">
+    <li><a href="index.html">Trang chủ</a></li>
+    <!-- 
+    <li class="has-submenu">
+      <a href="#">Giới thiệu ▾</a>
+      <ul class="submenu">
+        <li><a href="/page/co-cau-to-chuc">Cơ cấu tổ chức</a></li>
+        <li><a href="/page/ban-lanh-dao">Lãnh đạo xã</a></li>
+        <li><a href="/page/lich-su-hinh-thanh">Lịch sử hình thành</a></li>
+      </ul>
+    </li> -->
+    
+    <li>
+      <a href="news.html" id="tin-tuc">Tin tức</a>
+      <!-- <ul class="submenu">
+        <li><a href="/page/hoat-dong-dia-phuong">Hoạt động địa phương</a></li>
+        <li><a href="/page/thong-bao-cong-khai">Thông báo - Công khai</a></li>
+      </ul> -->
+    </li>
+<!-- 
+    <li class="has-submenu">
+      <a href="#">Dịch vụ công ▾</a>
+      <ul class="submenu">
+        <li><a href="/page/thu-tuc-hanh-chinh">Thủ tục hành chính</a></li>
+        <li><a href="/page/nop-ho-so">Nộp hồ sơ trực tuyến</a></li>
+        <li><a href="/page/tra-cuu-ho-so">Tra cứu hồ sơ</a></li>
+      </ul>
+    </li>
+
+    <li class="has-submenu">
+      <a href="#">Văn hóa - Xã hội ▾</a>
+      <ul class="submenu">
+        <li><a href="/page/giao-duc">Giáo dục</a></li>
+        <li><a href="/page/y-te">Y tế</a></li>
+        <li><a href="/page/an-ninh-quoc-phong">An ninh - Quốc phòng</a></li>
+      </ul>
+    </li> -->
+
+    <li><a href="contact.html">Liên hệ</a></li>
+    <li><a href="privacy.html">Privacy</a></li>
+  </ul>
+</nav>
+
+
+<script type="text/javascript" src="./js/menu.js"></script>
+
+  </div>
+</header>
+
+<div id="app"></div>
+
+<footer class="site-footer">
+  <p>&copy; 2025 huydt. All rights reserved.</p>
+</footer>
+
+<link rel="stylesheet" type="text/css" href="./renderBlogUI/ui.css">
+<link rel="stylesheet" type="text/css" href="./renderBlogUI/post-list.css">
+<script src="./renderBlogUI/js/helper.js"></script>
+<script src="./renderBlogUI/js/post.js"></script>
+<script src="./renderBlogUI/js/ui.js"></script>
+<script src="./js/my-posts.js"></script>
+<script src="./renderBlogUI/js/renderBlogUIFromAPI.js"></script>
+<script src="./renderBlogUI/js/renderBlogUI.js"></script>
+<script type="text/javascript">
+    
+    renderBlogUI(myPosts, {mode: "", lazyload: true, perPage: 4, showSidebar: false, showFilter: true, search: {
+      text: true, category: false, tag: true
+    }});
+
+</script>
+
+</body>
+</html>

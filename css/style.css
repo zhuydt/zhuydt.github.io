@@ -1,0 +1,59 @@
+.site-footer {
+  text-align: center;
+  font-size: 14px;
+  background-color: #f2f2f2;
+  color: #555;
+  border-top: 1px solid #ddd;
+}
+
+/* variables.css */
+:root {
+  --color-primary: #3b5d3b;
+  --color-primary-dark: #2e4d2e;
+  --color-secondary: #4f724f;
+  --color-overlay: rgba(34, 65, 23, 0.5);
+  --color-bg: #f8f9fa;
+  --color-white: #fff;
+  --color-gray: #ccc;
+  --color-link: #007bff;
+  --color-border: #b5d3b0;
+  --color-subtle-bg: #f3fbe9;
+
+  --font-main: 'Georgia', serif;
+  --font-alt: 'Roboto', 'Noto Sans', sans-serif;
+
+  --spacing-xs: 5px;
+  --spacing-sm: 10px;
+  --spacing-md: 20px;
+  --spacing-lg: 30px;
+  --spacing-xl: 40px;
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+
+  --transition: 0.3s ease;
+  --shadow-sm: 0 2px 5px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+
+*{
+  box-sizing: border-box;
+}
+
+/* body and base styles */
+body {
+  font-family: var(--font-alt);
+  background-color: var(--color-bg);
+  color: var(--color-primary-dark);
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
