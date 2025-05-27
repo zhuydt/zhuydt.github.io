@@ -7,12 +7,12 @@ const myPosts = [
         "author": "huydt",
         "date": "2025-05-25",
         "tags": [
-            "tim-so"
+            "Brain Game", "Relaxing"
         ],
-        "category": "Game",
-        "badge": "New",
+        "category": "Board",
+        "badge": "★4.8",
         "views": 1562,
-        "extra": "<div class='extra-info'>Featured article</div>"
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
     },
     {
         "title": "Loto Server",
@@ -22,10 +22,10 @@ const myPosts = [
         "author": "huydt",
         "date": "2025-05-15",
         "tags": [
-            "loto", "loto-server"
+             "Board Game", "Multiplayer"
         ],
-        "category": "Game",
-        "badge": "Featured",
+        "category": "Casino",
+        "badge": "★5.0",
         "views": 1562,
     },
     {
@@ -36,11 +36,11 @@ const myPosts = [
         "author": "huydt",
         "date": "2025-05-13",
         "tags": [
-            "loto"
+            "Board Game"
         ],
-        "category": "Game",
-        "badge": "Featured",
+        "category": "Casino",
+        "badge": "★4.9",
         "views": 1562,
-        "extra": "<div class='extra-info'>Featured article</div>"
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
     },
 ];
