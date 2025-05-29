@@ -1,5 +1,20 @@
 const myPosts = [
     {
+        "title": "Maze 3D - Mê cung",
+        "thumb": "images/me_cung.png",
+        "desc": "Explore stunning 3D mazes, solve puzzles, and find your way out!",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.me_cung",
+        "author": "huydt",
+        "date": "2025-05-29",
+        "tags": [
+            "Brain Game", "Giải đố"
+        ],
+        "category": "Giải đố",
+        "badge": "★4.8",
+        "views": 342,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
         "title": "Tìm số (1-300)",
         "thumb": "images/tim_so.png",
         "desc": "Trò chơi tìm số giải trí thời học sinh",

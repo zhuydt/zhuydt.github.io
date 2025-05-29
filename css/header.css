@@ -62,7 +62,7 @@
   font-weight: bold;
   padding: 6px 10px;
   border-radius: var(--radius-sm);
-  display: inline-block;
+  display: block;
   transition: background-color var(--transition);
   user-select: none;
 }
