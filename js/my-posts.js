@@ -1,5 +1,20 @@
 const myPosts = [
     {
+        "title": "Đập Muỗi - Buzz Off!",
+        "thumb": "images/buzz_off.png",
+        "desc": "Đập Muỗi là trò chơi giải trí vui nhộn, phải nhanh tay đập các con muỗi.",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.buzz_off",
+        "author": "huydt",
+        "date": "2025-06-12",
+        "tags": [
+            "Brain Game", "Mô phỏng"
+        ],
+        "category": "Giải đố",
+        "badge": "★4.9",
+        "views": 732,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
         "title": "Maze 3D - Mê cung",
         "thumb": "images/me_cung.png",
         "desc": "Explore stunning 3D mazes, solve puzzles, and find your way out!",
