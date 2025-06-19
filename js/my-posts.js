@@ -1,5 +1,20 @@
 const myPosts = [
     {
+        "title": "Âm lịch 99",
+        "thumb": "images/buzz_off.png",
+        "desc": "Xem âm lịch.",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.lunar_calendar",
+        "author": "huydt",
+        "date": "2025-06-19",
+        "tags": [
+            "Mobile App", "Calendar"
+        ],
+        "category": "Lịch",
+        "badge": "★4.7",
+        "views": 352,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
         "title": "Đập Muỗi - Buzz Off!",
         "thumb": "images/buzz_off.png",
         "desc": "Đập Muỗi là trò chơi giải trí vui nhộn, phải nhanh tay đập các con muỗi.",
