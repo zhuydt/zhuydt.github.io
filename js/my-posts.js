@@ -1,7 +1,7 @@
 const myPosts = [
     {
         "title": "Âm lịch 99",
-        "thumb": "images/buzz_off.png",
+        "thumb": "images/lunar_calendar.png",
         "desc": "Xem âm lịch.",
         "link": "https://play.google.com/store/apps/details?id=com.huydt.lunar_calendar",
         "author": "huydt",
