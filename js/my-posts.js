@@ -1,8 +1,23 @@
 const myPosts = [
     {
+        "title": "Gọi Món - Server",
+        "thumb": "images/order_server.png",
+        "desc": "Quản lý quán ăn OFFLINE + Gọi món qua LAN",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.order_server",
+        "author": "huydt",
+        "date": "2025-06-30",
+        "tags": [
+            "Food", "Store"
+        ],
+        "category": "Apps",
+        "badge": "★4.5",
+        "views": 934,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
         "title": "Âm lịch 99",
         "thumb": "images/lunar_calendar.png",
-        "desc": "Xem âm lịch.",
+        "desc": "Xem âm lịch, ghi chú lich thêm nhắc nhở.",
         "link": "https://play.google.com/store/apps/details?id=com.huydt.lunar_calendar",
         "author": "huydt",
         "date": "2025-06-19",
