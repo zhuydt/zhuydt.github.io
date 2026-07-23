@@ -1,0 +1,20 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.huydt.loto",
+      "sha256_cert_fingerprints":
+        ["6E:E3:DD:3A:CC:8E:5E:E4:22:96:19:5A:41:42:0A:C7:C5:B6:18:51:F8:66:E7:50:8A:8F:61:D5:35:34:2A:0F"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.huydt.loto_server",
+      "sha256_cert_fingerprints":
+        ["E2:06:CF:9B:19:63:A9:7C:8F:FB:12:21:5F:E7:06:E5:D7:8F:80:E5:90:61:B9:DE:BA:6B:23:DF:4D:40:4C:69"]
+    }
+  }
+]
