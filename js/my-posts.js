@@ -1,5 +1,20 @@
 const myPosts = [
     {
+        "title": "Xếp Chai - Bottle Sort",
+        "thumb": "images/xep_chai.png",
+        "desc": "Kéo đổi chỗ các chai để sắp đúng thứ tự bí mật!",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.xep_chai",
+        "author": "huydt",
+        "date": "2026-09-3",
+        "tags": [
+            "Game", "Store"
+        ],
+        "category": "Apps",
+        "badge": "★4.9",
+        "views": 492,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
         "title": "Gọi Món - Server",
         "thumb": "images/order_server.png",
         "desc": "Quản lý quán ăn OFFLINE + Gọi món qua LAN",
