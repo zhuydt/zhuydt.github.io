@@ -1,6 +1,21 @@
 const myPosts = [
     {
-        "title": "Xếp Chai - Bottle Sort",
+        "title": "Gpad 3 - Gán bàn phím ngoài",
+        "thumb": "images/gpad.png",
+        "desc": "Gán phím bàn phím ngoài thành thao tác chạm màn hình cho game và ứng dụng",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.gpad",
+        "author": "huydt",
+        "date": "2026-09-21",
+        "tags": [
+            "Application", "Store"
+        ],
+        "category": "Apps",
+        "badge": "★5",
+        "views": 1023,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
+        "title": "",
         "thumb": "images/xep_chai.png",
         "desc": "Kéo đổi chỗ các chai để sắp đúng thứ tự bí mật!",
         "link": "https://play.google.com/store/apps/details?id=com.huydt.xep_chai",
