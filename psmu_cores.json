@@ -9,7 +9,7 @@
       "pbp",
       "chd"
     ],
-    "lib": "libpcsx_rearmed_libretro.so",
+    // "lib": "libpcsx_rearmed_libretro.so",
     "options": {
       "pcsx_rearmed_neon_enhancement_enable": "enabled",
       "pcsx_rearmed_drc": "disabled"
@@ -23,7 +23,7 @@
       "bin",
       "mdf"
     ],
-    "lib": "libplay_libretro.so",
+    // "lib": "libplay_libretro.so",
     "requiredPath": "/sdcard/Play Data Files"
   },
   {
