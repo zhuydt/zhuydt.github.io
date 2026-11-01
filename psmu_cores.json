@@ -1,136 +1,139 @@
 [
- {
-  "console": "PS1",
-  "label": "PS1",
-  "extensions": [
-   "bin",
-   "cue",
-   "img",
-   "pbp",
-   "chd"
-  ],
-  "lib": "libpcsx_rearmed_libretro.so",
-  "options": {
-   "pcsx_rearmed_neon_enhancement_enable": "enabled",
-   "pcsx_rearmed_drc": "disabled"
+  {
+    "console": "PS1",
+    "label": "PS1",
+    "extensions": [
+      "bin",
+      "cue",
+      "img",
+      "pbp",
+      "chd"
+    ],
+    "lib": "libpcsx_rearmed_libretro.so",
+    "options": {
+      "pcsx_rearmed_neon_enhancement_enable": "enabled",
+      "pcsx_rearmed_drc": "disabled"
+    }
+  },
+  {
+    "console": "PS2",
+    "label": "PS2",
+    "extensions": [
+      "iso",
+      "bin",
+      "mdf"
+    ],
+    "lib": "libplay_libretro.so",
+    "requiredPath": "/sdcard/Play Data Files"
+  },
+  {
+    "console": "PS3",
+    "label": "PS3",
+    "extensions": [
+      "iso",
+      "pkg"
+    ]
+  },
+  {
+    "console": "PS4",
+    "label": "PS4",
+    "extensions": [
+      "iso",
+      "pkg"
+    ]
+  },
+  {
+    "console": "PS5",
+    "label": "PS5",
+    "extensions": [
+      "iso",
+      "pkg"
+    ]
+  },
+  {
+    "console": "NES",
+    "label": "NES",
+    "extensions": [
+      "nes",
+      "fds",
+      "unf",
+      "unif"
+    ],
+    "lib": "libfceumm_libretro.so"
+  },
+  {
+    "console": "SNES",
+    "label": "SNES",
+    "extensions": [
+      "sfc",
+      "smc",
+      "swc",
+      "fig"
+    ],
+    "lib": "libsnes9x_libretro.so"
+  },
+  {
+    "console": "GB",
+    "label": "GB",
+    "extensions": [
+      "gb",
+      "gbc"
+    ],
+    "lib": "libgambatte_libretro.so"
+  },
+  {
+    "console": "GBA",
+    "label": "GBA",
+    "extensions": [
+      "gba"
+    ],
+    "lib": "libmgba_libretro.so"
+  },
+  {
+    "console": "SEGA",
+    "label": "SEGA",
+    "extensions": [
+      "md",
+      "gen",
+      "smd",
+      "sms",
+      "gg"
+    ],
+    "lib": "libgenesis_plus_gx_libretro.so"
+  },
+  {
+    "console": "PCE",
+    "label": "PCE",
+    "extensions": [
+      "pce",
+      "sgx"
+    ],
+    "lib": "libmednafen_pce_fast_libretro.so"
+  },
+  {
+    "console": "NDS",
+    "label": "NDS",
+    "extensions": [
+      "nds"
+    ],
+    "lib": "libdesmume2015_libretro.so"
+  },
+  {
+    "console": "ARCADE",
+    "label": "MAME",
+    "extensions": [
+      "zip"
+    ],
+    "lib": "libmame2003_plus_libretro.so",
+    "options": {
+      "mame2003-plus_skip_disclaimer": "enabled",
+      "mame2003-plus_skip_warnings": "enabled",
+      "mame2003-plus_brightness": "1.0",
+      "mame2003-plus_gamma": "1.0",
+      "mame2003-plus_sample_rate": "48000"
+    },
+    "alt": {
+      "lib": "libfbneo_libretro.so"
+    }
   }
- },
- {
-  "console": "PS2",
-  "label": "PS2",
-  "extensions": [
-   "iso",
-   "bin",
-   "mdf"
-  ],
-  "lib": "libplay_libretro.so",
-  "requiredPath": "/sdcard/Play Data Files"
- },
- {
-  "console": "PS3",
-  "label": "PS3",
-  "extensions": [
-   "iso",
-   "pkg"
-  ]
- },
- {
-  "console": "PS4",
-  "label": "PS4",
-  "extensions": [
-   "iso",
-   "pkg"
-  ]
- },
- {
-  "console": "PS5",
-  "label": "PS5",
-  "extensions": [
-   "iso",
-   "pkg"
-  ]
- },
- {
-  "console": "NES",
-  "label": "NES",
-  "extensions": [
-   "nes",
-   "fds",
-   "unf",
-   "unif"
-  ],
-  "lib": "libfceumm_libretro.so"
- },
- {
-  "console": "SNES",
-  "label": "SNES",
-  "extensions": [
-   "sfc",
-   "smc",
-   "swc",
-   "fig"
-  ],
-  "lib": "libsnes9x_libretro.so"
- },
- {
-  "console": "GB",
-  "label": "GB",
-  "extensions": [
-   "gb",
-   "gbc"
-  ],
-  "lib": "libgambatte_libretro.so"
- },
- {
-  "console": "GBA",
-  "label": "GBA",
-  "extensions": [
-   "gba"
-  ],
-  "lib": "libmgba_libretro.so"
- },
- {
-  "console": "SEGA",
-  "label": "SEGA",
-  "extensions": [
-   "md",
-   "gen",
-   "smd",
-   "sms",
-   "gg"
-  ],
-  "lib": "libgenesis_plus_gx_libretro.so"
- },
- {
-  "console": "PCE",
-  "label": "PCE",
-  "extensions": [
-   "pce",
-   "sgx"
-  ],
-  "lib": "libmednafen_pce_fast_libretro.so"
- },
- {
-  "console": "NDS",
-  "label": "NDS",
-  "extensions": [
-   "nds"
-  ],
-  "lib": "libdesmume2015_libretro.so"
- },
- {
-  "console": "ARCADE",
-  "label": "MAME",
-  "extensions": [
-   "zip"
-  ],
-  "lib": "libmame2003_plus_libretro.so",
-  "options": {
-   "mame2003-plus_skip_disclaimer": "enabled",
-   "mame2003-plus_skip_warnings": "enabled",
-   "mame2003-plus_brightness": "1.0",
-   "mame2003-plus_gamma": "1.0",
-   "mame2003-plus_sample_rate": "48000"
-  }
- }
 ]
