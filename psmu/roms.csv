@@ -5,11 +5,13 @@ Bloody-Roar-II,,303.3 MB,ps1,1vUoWjwvuf4yJM-dIsft6DiRCuROiH3EW
 Metal Slug X,,72.6 MB,ps1,10nWmqFrDzFKxjmFNSMGxaeA8ZuOBRjUX
 Cadillacs and Dinosaurs (World 930201),dino.zip,3.9 MB,mame,1FH8Bs9DlYnjK5jESGM8N6M4kca1BkSaO
 Metamorphic Force (ver EAA),metamrph.zip,7 MB,mame,1Ke-7RhxEYv6w52M8Ms59Nk1F58xwePY8
+Oriental Legend - Xi Yo Gi Shi Re Zuang (V126),orlegend.zip,16.5 MB,mame,1M4V_Q8-pfrPi9ipr7wNEWVFAcbXQ5pbT
 "Oriental Legend Super (V101, Korea)",olds.zip,20.1 MB,mame,1jydczW6erNWiyNGvCC3dXez4OWgP7t9x
-1200-in-1 (J) [p1],,317 KB,nes,1-fqK00cD4br2DK0P17XP14WOVNt91IFZ
+Warriors of Fate (World 921031),wof.zip,3.8 MB,mame,1OH3mjWHdcHlbOhL8I4kpq5UwLnnX5QTy
 Knights of Valour Plus,kovplus.zip,20.1 MB,mame,1IWaO-0NjMPBpGT1N_Kk17PytXRrYjyqV
-Pháp sư 4 kiếm (chưa test),kov_4_kiem/kovplus.zip,22.1 MB,mame,1MlDMfKW6oHQKOT7HEzG-cO3Hosz8cEaU
+Knights of Valour Plus (Sword),kov_4_kiem/kovplus.zip,22.1 MB,mame,1MlDMfKW6oHQKOT7HEzG-cO3Hosz8cEaU
 Super Mario All-Stars + Super Mario World (USA),,1.3 MB,snes,1R1_QVe15X8eB5cvgekUQaBUZvLuCnhAK
+1200-in-1 (J) [p1],,317 KB,nes,1-fqK00cD4br2DK0P17XP14WOVNt91IFZ
 Three Wonders,3wonders.zip,2.4 MB,mame,1Ds1l_oMNfpgUIF4-VFnJDcwxtOWmHjLJ
 Giga Wing,gigawing.zip,15.7 MB,mame,1G8YhWKhYD1aEXSRdp2w70Y0WF5lHVBdy
 The King of Dragons,kod.zip,7.4 MB,mame,1HNFQ7bpYt8yVFuvrHTWnes_ZdixKiA2V
@@ -22,8 +24,6 @@ Snow Bros. 3 - Magical Adventure,snowbro3.zip,2 MB,mame,1N-tXWNZM_pQzD6Yumhln72f
 Fantasy '95 (1995),fantsy95.zip,2.9 MB,mame,1-m1hdHKt170fLStT8rzZ4lxYg8PoMGd9
 Ninja Baseball Bat Man (World),nbbatman.zip,3.4 MB,mame,1Lk8tOIQrhAMpppeU8dcLfuatntvtKsQH
 Captain Commando,captcomm.zip,2.4 MB,mame,1EjGuTHZjDGB39o6ILYhmV26Rp5djogeM
-Warriors of Fate (USA 921031),wofu.zip,3.8 MB,mame,1UkkipzEQCN0Mx164WIRgI_ZlZud6auU_
-Warriors of Fate (Mod - thư mục wof_kiem),wof_kiem,,mame,154NGCx3hDFwdntMs7M8wHTSikRjg-wvh
 The Last Blade,lastblad.zip,25.1 MB,mame,1JY3O4D9V2OsrH674000qkWweJIT2TIyy
 The Last Blade 2,lastbld2.zip,30.9 MB,mame,1JZff0VLzNlvIJD3tWc5lGXsU1HQpI0rF
 Mega Man: The Power Battle,megaman.zip,3.1 MB,mame,1KHNXXYQCNvf6linrkLaPUUTtGZB2hRRI
@@ -40,7 +40,6 @@ Samurai Shodown V Special,samsh5sp.zip,79.2 MB,mame,1MdyDJ8RvDTYB34CzSjboCA9WF3i
 Metal Slug - Super Vehicle-001,mslug.zip,12.6 MB,mame,1L5a2XC4u3zUY6IMf0WKQJQATVdaDq4Qo
 Metal Slug 2,mslug2.zip,18.2 MB,mame,1L770LbsgQYrh45pH5pdBEgt8VZx44NzC
 Metal Slug 3,mslug3.zip,76.7 MB,mame,1LC_8OsNiIZDGs6Y6Lq3ZOtTun3iJfiRC
-Metal Slug 6 (Metal Slug 3 bootleg),mslug3b6.zip,2.1 MB,mame,1LF2LrZyx-aNLDMY09RZBTXRF9I9JjQx6
 Metal Slug 4,mslug4.zip,60.4 MB,mame,1LLi-nQniPye-ZJADmB-eFco3vB7nQUFv
 Metal Slug 5,mslug5.zip,77.4 MB,mame,1LSr3qR_qSlrGnC65RcQTRcdfZQUYN3q-
 Metal Slug X - Super Vehicle-001,mslugx.zip,27.2 MB,mame,1LT1B-me5w-h-wHhRz7fXDXdv7g0YvkCG
@@ -103,8 +102,6 @@ Knights of Valour 2 Plus,kov2p.zip,26.6 MB,mame,1IHLwHHy6iJnkvGlrfP9pcriivEo8evF
 Knights of Valour 3,kov3.zip,131.2 MB,mame,1IVOVjYvqd0PaIwTp6zkQSNDuvQrUj_T0
 King Of Valour Plus (Mod),kov_mod/kovplus.zip,20.4 MB,mame,1sRZaDX9m5lXujAc_WqlVJ4-44TVIdeG5
 Knights of Valour: Quan Huang San Guo Special,kovqhsgs.zip,37.4 MB,mame,1IrIzZus42SERFsyQuuIqIG9YaIwQk1gx
-King of Dragons (USA),King of Dragons (USA).zip,1.2 MB,mame,12rCuaGq6WSv6rUOR5aK9YI4zbGhjr-I-
-King of Dragons,kodu.zip,2.4 MB,mame,1BIArWKhEUfP-ASQGpKk0KrJdOtVLFGux
 Lansquenet 2004,lans2004.zip,28.4 MB,mame,1JO7TTH7ZFjoeVtxfGYpPn-3t0vsyiFEZ
 Martial Masters,martmast.zip,27.2 MB,mame,1JoIBDfIX2i87_LbYuhNmjFXaGVUgaNrP
 Matrimelee,matrim.zip,78.5 MB,mame,1K2U8jmgPp8VJ3xYf813w5nkyzL_OabxR
@@ -116,8 +113,6 @@ Marvel Super Heroes vs. Street Fighter,mshvsf.zip,30.4 MB,mame,1KzwDV8qic1VGVSgf
 Magic Sword,msword.zip,1.4 MB,mame,1LW0j6kejz_7GmRMNMbnxBEaO8lKxD5Yg
 Ninja Combat,ncombat.zip,4.4 MB,mame,1LqocNcrT2yqsKsdCn0zYx-hWzPqHa4Fm
 Ninja Commando,ncommand.zip,4.7 MB,mame,1LsKBcnM5_QVXUPURPwc4R5Gg61leOAZQ
-Oriental Legend - Xi Yo Gi Shi Re Zuang (V126),orlegend.zip,16.5 MB,mame,1M4V_Q8-pfrPi9ipr7wNEWVFAcbXQ5pbT
-Oriental Legend Super Plus,oldsplus.zip,24.1 MB,mame,1M3717ztnvxWlbVbRuvys89b4oU0qIQC1
 Super Mario Bros. 3 (PlayChoice-10),pc_smb3.zip,225 KB,mame,1M6uVYlkwBbiTPn5gQqcC1wI6H5zxoFlq
 PGM 3 in 1 (multi-game),pgm3in1.zip,32.7 MB,mame,1MB1U1wNESL3R_-CKZUPfRXNWHr-b3ea6
 PGM 3 in 1 (ver. c100),pgm3in1c100.zip,1.2 MB,mame,1MBJUXc_cIuRVSSop4FGZKHdKS7HoR1EN
@@ -137,7 +132,6 @@ The Heroes (chưa xác minh),theroes.zip,16.9 MB,mame,1NY5gD4yLDNH98Aeodb3mQcp6i
 Teenage Mutant Ninja Turtles: Turtles in Time,tmnt2a.zip,3.4 MB,mame,1N_gvt3HU_rpTJ0W2V6g2mahdVY3rICjF
 Vamf x1/2 (Vamp x1/2),vamphalf.zip,3.9 MB,mame,1NvRNKWljCahBUrWjy9-N9K4HnyaIsGtf
 Violent Storm,viostorm.zip,8.2 MB,mame,1ODu1AZNMJVVmLa8busPBYwtrRkuzFvkb
-Warriors of Fate (World 921031),wof.zip,3.8 MB,mame,1OH3mjWHdcHlbOhL8I4kpq5UwLnnX5QTy
 X-Men vs. Street Fighter,xmvsf.zip,27.6 MB,mame,1OKjlH6aBmzGnfLE0PKG2MubcaRnuVycn
 Blazing Star,blazstar.zip,21.3 MB,mame,1Hok00t7_lqvj5gFqLDFSkdLs-cXufzuD
 Fantasia,fantasia.zip,3.6 MB,mame,1QZytmFHDR6xo3d3NjgGE-zPYOa67JsPz
@@ -206,3 +200,4 @@ X-Men-2,,1 MB,snes,1tWSmQLEeHqe8vpJliiSWRlpoPm4gXcOM
 Special Move Tetris,,1 MB,snes,1rwMItdXjcf4Xf8Lq8Bkn7x9MXV56qGPy
 Sword Duel Puzzle,,1 MB,snes,1OPS2KNzOm1JthxynH39maZGJfCF_RRFz
 Water Pipe Puzzle,,513 KB,snes,1-XhaibHxfoOlUoW8HSbYtG2lEytMWaco
+Warriors of Fate (Test),wof_kiem/wof.zip,,mame,154NGCx3hDFwdntMs7M8wHTSikRjg-wvh
