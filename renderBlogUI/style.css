@@ -1,0 +1,101 @@
+/* ======== RESET VÀ MẶC ĐỊNH CHUNG ======== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-family-base);
+  scroll-behavior: smooth;
+}
+
+html, body {
+  height: 100%;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+}
+
+/* ========== BIẾN MẶC ĐỊNH (LIGHT MODE) ========== */
+:root {
+  /* ===== COLORS ===== */
+  --color-primary: #34d399;         /* xanh lá nhạt (emerald-400) */
+  --color-primary-hover: #10b981;   /* xanh lá hover (emerald-500) */
+  --color-secondary: #ec4899;
+  --color-accent: #22c55e;          /* bạn có thể giữ nguyên hoặc tinh chỉnh */
+  --color-danger: #ef4444;
+  --color-warning: #f59e0b;
+  --color-info: #3b82f6;
+
+/*  --color-bg: #ffffff;*/
+  --color-bg-alt: #f9fafb;
+  --color-surface: #f1f5f9;
+
+  --color-text: #111827;
+  --color-text-light: #6b7280;
+  --color-border: #e5e7eb;
+
+  --color-bg: #f9f9f9;                /* nền tổng thể sáng, trung tính */
+  --color-white: #ffffff;             /* màu trắng cho background các post */
+
+  /* ===== FONT ===== */
+  --font-family-base: 'Inter', sans-serif;
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+
+  --line-height-base: 1.5;
+  --line-height-tight: 1.25;
+
+  /* ===== SPACING ===== */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+
+  /* ===== BORDER / RADIUS ===== */
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 12px;
+  --border-radius-full: 9999px;
+  --border-width: 1px;
+
+  /* ===== SHADOW ===== */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.08);
+
+  /* ===== Z-INDEX ===== */
+  --z-index-dropdown: 1000;
+  --z-index-sticky: 1020;
+  --z-index-fixed: 1030;
+  --z-index-modal: 1050;
+  --z-index-popover: 1060;
+  --z-index-tooltip: 1070;
+
+  /* ===== TRANSITIONS ===== */
+  --transition-fast: 150ms ease-in-out;
+  --transition-base: 300ms ease-in-out;
+  --transition-slow: 500ms ease-in-out;
+}
+
+/* ========== DARK MODE SUPPORT ========== */
+.dark {
+  --color-primary: #34d399;
+  --color-primary-hover: #10b981;
+  --color-bg: #0f172a;
+  --color-bg-alt: #1e293b;
+  --color-surface: #334155;
+  --color-text: #f1f5f9;
+  --color-text-light: #94a3b8;
+  --color-border: #475569;
+
+  --shadow-sm: 0 1px 3px rgba(255, 255, 255, 0.05);
+  --shadow-md: 0 4px 6px rgba(255, 255, 255, 0.06);
+  --shadow-lg: 0 10px 15px rgba(255, 255, 255, 0.07);
+}
