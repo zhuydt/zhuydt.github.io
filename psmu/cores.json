@@ -121,20 +121,8 @@
   {
     "console": "ARCADE",
     "label": "MAME",
-    "extensions": [
-      "zip"
-    ],
-    "lib": "libfbneo_libretro.so",
-    // "options": {
-    //   "mame2003-plus_skip_disclaimer": "enabled",
-    //   "mame2003-plus_skip_warnings": "enabled",
-    //   "mame2003-plus_brightness": "1.0",
-    //   "mame2003-plus_gamma": "1.0",
-    //   "mame2003-plus_sample_rate": "48000"
-    // },
-    "alt": {
-      // "lib": "libfbneo_libretro.so",
-      "lib": "fbalpha_libretro.so"
-    }
+    "extensions": ["zip"],
+    "lib": "libfbalpha_libretro.so",
+    "alt": { "lib": "libfbneo_libretro.so" }
   }
 ]
