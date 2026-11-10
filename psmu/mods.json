@@ -1,0 +1,45 @@
+{
+  "kof2002": [
+    {
+      "Magic Plus": "kf2k2mp"
+    }
+  ],
+  "kof2003": [
+    {
+      "Ultra Plus": "kf2k3upl"
+    }
+  ],
+  // "kod": [
+  //   {
+  //     "Bootleg": "kodb"
+  //   }
+  // ],
+  "kovplus": [
+    {
+      "MOD-1": "kovsgqyza"
+    }
+  ],
+  "kov2p": [
+    {
+      "MOD-1": "kov2p200"
+    },
+    {
+      "MOD-2": "kov2pemp"
+    }
+  ],
+  "mslug3": [
+    {
+      "Bootleg 6": "mslug3b6"
+    }
+  ],
+  "dino": [
+    {
+      "MOD-1": "dinoeh"
+    }
+  ],
+  "wof": [
+    {
+      "MOD-1": "wof"
+    }
+  ]
+}
