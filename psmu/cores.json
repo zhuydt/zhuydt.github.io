@@ -122,7 +122,7 @@
     "console": "ARCADE",
     "label": "MAME",
     "extensions": ["zip"],
-    "lib": "libfbalpha_libretro.so",
-    "alt": { "lib": "libfbneo_libretro.so" }
+    "lib": "libfbneo_libretro.so",
+    "alt": { "lib": "libfbalpha_libretro.so" }
   }
 ]
