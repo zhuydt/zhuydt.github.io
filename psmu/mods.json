@@ -6,11 +6,24 @@
     { "Ultra Plus": "kf2k3upl" }
   ],
   "kovplus": [
-    { "MOD-1": "kovsgqyza" }
+    { "MOD-1": "kovshp" },
+    { "MOD-2": "kovsgqyzd" }
   ],
   "kov2p": [
     { "MOD-1": "kov2p200" },
     { "MOD-2": "kov2pemp" }
+  ],
+  "lastblad": [
+    { "MOD-1": "lastbladsp" }
+  ],
+  "lastbld2": [
+    { "MOD-1": "lastbld2eh" }
+  ],
+  "olds": [
+    { "MOD-1": "zerofxz" }
+  ],
+  "oldsplus": [
+    { "MOD-1": "oldsplus203" }
   ],
   "mslug3": [
     { "Bootleg 6": "mslug3b6" }
