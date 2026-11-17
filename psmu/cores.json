@@ -5,6 +5,7 @@
     "extensions": [
       "bin",
       "cue",
+      "ios",
       "img",
       "pbp",
       "chd"
@@ -15,41 +16,41 @@
       "pcsx_rearmed_drc": "disabled"
     }
   },
-  {
-    "console": "PS2",
-    "label": "PS2",
-    "extensions": [
-      "iso",
-      "bin",
-      "mdf"
-    ],
-    // "lib": "libplay_libretro.so",
-    "requiredPath": "/sdcard/Play Data Files"
-  },
-  {
-    "console": "PS3",
-    "label": "PS3",
-    "extensions": [
-      "iso",
-      "pkg"
-    ]
-  },
-  {
-    "console": "PS4",
-    "label": "PS4",
-    "extensions": [
-      "iso",
-      "pkg"
-    ]
-  },
-  {
-    "console": "PS5",
-    "label": "PS5",
-    "extensions": [
-      "iso",
-      "pkg"
-    ]
-  },
+  // {
+  //   "console": "PS2",
+  //   "label": "PS2",
+  //   "extensions": [
+  //     "iso",
+  //     "bin",
+  //     "mdf"
+  //   ],
+  //   // "lib": "libplay_libretro.so",
+  //   "requiredPath": "/sdcard/Play Data Files"
+  // },
+  // {
+  //   "console": "PS3",
+  //   "label": "PS3",
+  //   "extensions": [
+  //     "iso",
+  //     "pkg"
+  //   ]
+  // },
+  // {
+  //   "console": "PS4",
+  //   "label": "PS4",
+  //   "extensions": [
+  //     "iso",
+  //     "pkg"
+  //   ]
+  // },
+  // {
+  //   "console": "PS5",
+  //   "label": "PS5",
+  //   "extensions": [
+  //     "iso",
+  //     "pkg"
+  //   ]
+  // },
   {
     "console": "NES",
     "label": "NES",
