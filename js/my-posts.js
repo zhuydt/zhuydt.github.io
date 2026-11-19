@@ -1,5 +1,35 @@
 const myPosts = [
     {
+        "title": "Adb System - Edit Hệ Thống",
+        "thumb": "images/adb_system.png",
+        "desc": "Làm chủ điện thoại Android — không cần máy tính, không cần root. Adb System dùng Gỡ lỗi không dây (ADB qua Wi-Fi) ngay trên máy để gỡ bloatware, quản lý ứng dụng chạy nền và chỉnh các cài đặt hệ thống ẩn.",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.adb_system",
+        "author": "huydt",
+        "date": "2026-11-09",
+        "tags": [
+            "Application", "System"
+        ],
+        "category": "Apps",
+        "badge": "★4.6",
+        "views": 346,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
+        "title": "PSmu - Retro Game Emulator",
+        "thumb": "images/ps_emulator.png",
+        "desc": "PSmu là trình giả lập game cổ điển nhẹ và mượt cho Android. Thêm file game của bạn, chạm vào game và chơi ngay sau vài giây.",
+        "link": "https://play.google.com/store/apps/details?id=com.huydt.ps_emulator",
+        "author": "huydt",
+        "date": "2026-10-18",
+        "tags": [
+            "Application", "Emulator"
+        ],
+        "category": "Apps",
+        "badge": "★4.5",
+        "views": 1764,
+        "extra": "<div class='extra-info'>Editor's Choice</div>"
+    },
+    {
         "title": "Gpad 3 - Gán bàn phím ngoài",
         "thumb": "images/gpad.png",
         "desc": "Gán phím bàn phím ngoài thành thao tác chạm màn hình cho game và ứng dụng",
