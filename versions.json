@@ -1,5 +1,5 @@
 {
-  "com.huydt.tim_so":         ["3.0.2", false, "", 1],
+  "com.huydt.tim_so":         ["3.0.3", false, "", 1],
   "com.huydt.me_cung":        ["3.0.1", false, "", 1],
   "com.huydt.loto":           ["5.0.7", false, "", 1],
   "com.huydt.loto_server":    ["3.0.3", false, "", 1],
@@ -7,5 +7,5 @@
   "com.huydt.xep_chai":       ["1.1.1", false, "", 1],
   "com.huydt.gpad":           ["1.2.8", false, "", 1],
   "com.huydt.ps_emulator":    ["1.4.2", false, "", 1],
-  "com.huydt.adb_system":     ["1.0.8", false, "", 1]
+  "com.huydt.adb_system":     ["1.0.9", false, "", 1]
 }
